@@ -5,7 +5,7 @@ equation ax2+bx+c=0. Read in a, b, c and use the quadratic formula.*/
 
 import java.util.Scanner;
 public class Quadratic_Scanner {  
-public static void main(String[] Strings)   
+public static void main(String[] Strings)   sss
   {  
         Scanner input = new Scanner(System.in);  
  	System.out.print("Enter the value of a: ");  

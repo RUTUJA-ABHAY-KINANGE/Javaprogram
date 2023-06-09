@@ -29,5 +29,3 @@ public class SimpleCalc
  } 
 } 
  
-Output: 
-Enter operand1
